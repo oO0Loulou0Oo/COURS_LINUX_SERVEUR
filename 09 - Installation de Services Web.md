@@ -51,7 +51,7 @@ EXIT;
 
 ### **4. Configurer WordPress**
 
-Cette partie est inutile si vous utilisez l'interface web pour installer wordpress (les droits ayant été donné à www-data, le setup écrira le fichier `w^p-config.php`)
+Cette partie est inutile si vous utilisez l'interface web pour installer wordpress (les droits ayant été donné à www-data, le setup écrira le fichier `wp-config.php`)
 
 - **Copier le fichier de configuration de base :**
 
